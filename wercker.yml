@@ -27,6 +27,8 @@ build:
         flags: -v
 deploy:
   steps:
+    - pip-install:
+      packages_list: "certifi"
     - s3sync:
       key-id: $S3_ACCESS_KEY_ID
       key-secret: $S3_SECRET_KEY
