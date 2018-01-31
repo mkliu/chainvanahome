@@ -67,7 +67,7 @@ title = "Chainvana"
   video = false
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Our Services"
-  description = "One-stop blockchain solution provider"
+  description = "One-stop blockchain technical solution provider"
 
   [[params.services.item]]
     icon = "icon-eye"
