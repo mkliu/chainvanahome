@@ -82,7 +82,7 @@ title = "Chainvana"
   [[params.services.item]]
     icon = "icon-present"
     title = "End-to-End Solution"
-    description = "Your idea shouldn't just stay on whitepaper. Let's make it happen."
+    description = "Your idea shouldn't just stay on whitepaper. Let's make magic happen."
 
 # Work section
 [params.work]
