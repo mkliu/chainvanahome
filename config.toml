@@ -22,7 +22,7 @@ title = "Chainvana"
   team = "The Team"
   contact = "Get In Touch"
   # Include logo instead if HOME:
-  logo = "images/lotus.svg"
+  logo = "images/logo_black.png"
 
 # Mission section
 [params.mission]
